@@ -5,3 +5,7 @@ This project explores the use of a visionless sensor system and landmark-based l
 The nano-quadcopter used in this project has six infrared laser distance sensors that are used for localization through detection of the landing pad markers. This method resulted in successful landings in the landing site 83% of the time (including crashes), with only few failures that can be attributed to the instability of the nano-quadcopter. These results suggest that with more testing on larger quadcopters, a visionless landing localization system similar to that of this project could prove to be an accurate and reliable alternative to computer vision-based quadcopter localization.
 
 Full paper on this project available at https://ieeexplore.ieee.org/document/9660468
+
+
+https://user-images.githubusercontent.com/25698984/186952478-108ca410-d8c6-4afe-a255-bacd27592859.mp4
+
